@@ -1,0 +1,25 @@
+<!DOCTYPE html >
+<html lang=ko>
+<head>
+<meta charset=UTF-8>
+ <title>알약마켓 로그인</title>
+  <style>
+   body {
+   font-family: Arial;
+    bsckground-color:#fff3e0;
+    display:flex;
+     judtify-content:center;
+     align-items:center;
+     height:100vh;
+   }
+   .box {
+     background : white;
+     padding :30px
+     border-radious:10PX;
+     text-align :center;
+     box-shadow :0 5px 15px rgba (0,0,0.0.2); 
+   }
+   input [
+   display:block  
+     
+     
