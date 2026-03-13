@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charest=UTF-8>
+<title>알약마켓</title>
+</head>
+
+<body>
+<h2> 알약마켓 로그인 </h2>
+<input id =pw type=password placeholder = 비밀번호>
+<br> <br>
+<button oneclick= login()> 로그인 </button>
+<p id = msg > </p>
+<script>
+<function login() {
